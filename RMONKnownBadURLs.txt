@@ -1,5 +1,6 @@
 viruswarning0722uswqevuk.z13.web.core.windows.net
 viruswarning0722us60o6br.z13.web.core.windows.net
+message826js817ewbcgy.z13.web.core.windows.net
 *.safedevice.click
 *.digitalnodeapp.co.in
 *.herokuapp.com
