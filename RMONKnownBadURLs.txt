@@ -4,5 +4,4 @@ message826js817ewbcgy.z13.web.core.windows.net
 08a41d71.login.wwpcrisis.com
 *.safedevice.click
 *.digitalnodeapp.co.in
-*.herokuapp.com
 *.fkdt-protect.co.in
