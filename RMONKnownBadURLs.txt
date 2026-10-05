@@ -1,9 +1,11 @@
-viruswarning*.z13.web.core.windows.net
-viruswarning*.z13.web.core.windows.net
-message*.z13.web.core.windows.net
+viruswarning0722uswqevuk.z13.web.core.windows.net
+viruswarning0722us60o6br.z13.web.core.windows.net
+message826js817ewbcgy.z13.web.core.windows.net
 08a41d71.login.wwpcrisis.com
 *.safedevice.click
 *.digitalnodeapp.co.in
 *.fkdt-protect.co.in
 *.techvectorpit.co.in
 damp-island-29703-80da58b69da5.herokuapp.com
+db0jmv8hubcc73fthmvg.nodevantaformline.co.in
+db0jeo77gk9s73dh4ui0.zwwg-adguard.co.in
