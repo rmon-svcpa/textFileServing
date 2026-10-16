@@ -5,3 +5,4 @@ message826js817ewbcgy.z13.web.core.windows.net
 *.safedevice.click
 *.co.in
 damp-island-29703-80da58b69da5.herokuapp.com
+cherlsonlaw.com
