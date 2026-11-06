@@ -8,3 +8,5 @@ damp-island-29703-80da58b69da5.herokuapp.com
 cherlsonlaw.com
 w22win10m844n4507c004.z13.web.core.windows.net
 *.chaseandtufa.com
+instance-dbgicx-relay.screenconnect.com
+instance-dbgicx.screenconnect.com
